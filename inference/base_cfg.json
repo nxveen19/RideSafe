@@ -1,0 +1,14 @@
+{
+    "max_miss_count": 20,
+    "max_tree_depth": 25,
+    "no_helmet_motion_gating_threshold": 250,
+    "no_helmet_motion_weight": 1.0,
+    "license_plate_motion_gating_threshold": 250,
+    "license_plate_motion_weight": 1.0,
+    "association_threshold": 200,
+    "track_buffer": 30,
+    "track_high_thresh": 0.5,
+    "track_low_thresh": 0.1,
+    "new_track_thresh": 0.6,
+    "match_thresh": 0.8
+} 

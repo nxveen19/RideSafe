@@ -1,0 +1,5 @@
+.env
+inference/evaluation/
+inference/pipeline_comp/
+README.md
+__pycache__/
